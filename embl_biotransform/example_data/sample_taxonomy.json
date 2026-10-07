@@ -1,0 +1,5 @@
+[
+  {"source": "MGnify", "organism": "Pseudomonas putida", "abundance": 134, "evidence": "Taxon detected in the metagenome's rRNA-based taxonomic profile (MGnify)."},
+  {"source": "MGnify", "organism": "Sphingomonas paucimobilis", "abundance": 41, "evidence": "Taxon detected in the metagenome's rRNA-based taxonomic profile (MGnify)."},
+  {"source": "MGnify", "organism": "Bacillus subtilis", "abundance": 22, "evidence": "Taxon detected in the metagenome's rRNA-based taxonomic profile (MGnify)."}
+]

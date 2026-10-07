@@ -1,0 +1,2 @@
+[console_scripts]
+expose = expose_app.cli:main

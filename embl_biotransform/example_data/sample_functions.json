@@ -1,0 +1,4 @@
+[
+  {"source": "MGnify", "annotation_id": "IPR001279", "description": "Alkane hydroxylase family (AlkB)", "abundance": 9, "evidence": "Functional/enzyme family directly detected in the metagenome's gene annotation (MGnify)."},
+  {"source": "MGnify", "annotation_id": "IPR000917", "description": "Aromatic ring-hydroxylating dioxygenase, alpha subunit", "abundance": 3, "evidence": "Functional/enzyme family directly detected in the metagenome's gene annotation (MGnify)."}
+]

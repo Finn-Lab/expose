@@ -1,0 +1,54 @@
+[
+  {
+    "entity_type": "gene",
+    "entity_id": "EC:1.14.14.1",
+    "entity_name": "Alkane hydroxylase (AlkB)",
+    "reaction_class": "Alkane hydroxylation",
+    "chebi_substrate": "CHEBI:138366",
+    "source": "UniProt / literature",
+    "evidence": "AlkB is a well-characterised integral-membrane alkane omega-hydroxylase (CYP153-independent route)."
+  },
+  {
+    "entity_type": "microbe",
+    "entity_id": "Pseudomonas putida",
+    "entity_name": "Pseudomonas putida",
+    "reaction_class": "Alkane hydroxylation",
+    "chebi_substrate": "CHEBI:138366",
+    "source": "Literature",
+    "evidence": "Reported medium-chain alkane degrader via the AlkB pathway."
+  },
+  {
+    "entity_type": "gene",
+    "entity_id": "EC:1.14.13.-",
+    "entity_name": "Aromatic ring-hydroxylating dioxygenase",
+    "reaction_class": "Aromatic ring hydroxylation",
+    "chebi_substrate": "CHEBI:16716",
+    "source": "UniProt / literature",
+    "evidence": "Ring-hydroxylating dioxygenase initiating aerobic aromatic-compound degradation."
+  },
+  {
+    "entity_type": "microbe",
+    "entity_id": "Rhodococcus erythropolis",
+    "entity_name": "Rhodococcus erythropolis",
+    "reaction_class": "Aromatic ring hydroxylation",
+    "chebi_substrate": "CHEBI:16716",
+    "source": "Literature",
+    "evidence": "Reported to degrade a broad range of aromatic pollutants."
+  },
+  {
+    "entity_type": "gene",
+    "entity_id": "EC:3.8.1.5",
+    "entity_name": "Haloalkane dehalogenase (DhlA/LinB-type)",
+    "reaction_class": "Dehalogenation",
+    "source": "UniProt / literature",
+    "evidence": "Hydrolytic dehalogenase acting on halogenated aliphatic substrates."
+  },
+  {
+    "entity_type": "microbe",
+    "entity_id": "Sphingomonas paucimobilis",
+    "entity_name": "Sphingomonas paucimobilis",
+    "reaction_class": "Dehalogenation",
+    "source": "Literature",
+    "evidence": "Reported to carry out hexachlorocyclohexane / haloalkane dehalogenation (LinB)."
+  }
+]

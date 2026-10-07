@@ -1,0 +1,21 @@
+# Python >= 3.10
+requests>=2.31
+networkx>=3.2
+matplotlib>=3.8
+pandas>=2.0
+
+# Web viewer (webapp/)
+flask>=3.0
+
+# Tests
+pytest>=8.0
+
+# Notebook interface
+ipywidgets>=8.1
+jupyter>=1.0
+
+# Optional: MGnify API v2 client (live dataset picker in the notebook)
+mgnipy>=0.2
+
+# Optional: structural-alert matching in predict.py (substrate SMILES)
+rdkit>=2023.9
